@@ -1,5 +1,6 @@
 Console.WriteLine("my name is huzaifa javed");
 Console.WriteLine("my roll no is 24-ST-028");
+1st-semester
 Console.WriteLine("stats");
 Console.WriteLine("functional English");
 Console.WriteLine("THQ");
@@ -13,4 +14,12 @@ Console.WriteLine("Islamiyat");
 Console.WriteLine("applied physics");
 Console.WriteLine("math");
 Console.WriteLine("computer programming");
-
+Console.WriteLine("islamiyat");
+Console.WriteLine("English");
+Console.WriteLine("Urdu");
+Console.WriteLine("physics");
+Console.WriteLine("chemistry");
+Console.WriteLine("computer");
+Console.WriteLine("pak study");
+Console.WriteLine("mathematics");
+ fsc-subjects
