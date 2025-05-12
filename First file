@@ -7,3 +7,10 @@ Console.WriteLine("SDLC");
 Console.WriteLine("OOPs");
 Console.WriteLine("SCM");
 Console.WriteLine("discret structure");
+Console.WriteLine("ITS");
+Console.WriteLine("EHS");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("applied physics");
+Console.WriteLine("math");
+Console.WriteLine("computer programming");
+
